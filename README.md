@@ -28,13 +28,6 @@ Save Expenses
 
 Exit
 
-
-
-## 📄 Files Included
-- `expense_tracker.py` — Main Python code
-- `Personal_Expense_Tracker_Report_Final.pdf` — Project write-up
-- `Personal_Expense_Tracker_Screenshots.pdf` — Screenshots of output
-
 ## ✅ Conclusion
 This project showcases how Python can solve real-life tasks like managing personal finance and helps users stay aware of their monthly spending.
 
